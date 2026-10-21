@@ -1,0 +1,15 @@
+Szymon Marciniak,4.2,0.12,25.5,6.5
+Daniele Orsato,5.1,0.18,28.2,5.0
+Clement Turpin,3.8,0.22,23.1,4.5
+Anthony Taylor,3.9,0.08,22.0,7.5
+Michael Oliver,3.6,0.05,21.8,7.0
+Wilmar Roldan,5.8,0.35,30.1,5.5
+Slavko Vinčić,4.0,0.10,24.0,5.0
+Danny Makkelie,3.4,0.07,21.5,6.0
+Antonio Mateu Lahoz,6.2,0.25,29.5,8.0
+Mustapha Ghorbal,3.5,0.15,25.0,5.5
+Chris Beath,4.1,0.11,23.8,6.0
+Cesar Arturo Ramos,4.3,0.09,26.0,7.0
+Facundo Tello,5.5,0.30,28.9,7.5
+Jesus Valenzuela,4.8,0.20,27.4,6.0
+Halil Umut Meler,5.2,0.22,26.8,6.5

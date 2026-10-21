@@ -1,0 +1,61 @@
+# --- EUROPA (UEFA) - 16 timova ---
+Hrvatska,1.20,0.80
+Francuska,1.45,0.85
+Brazil,1.50,0.75
+Argentina,1.40,0.75
+Njemačka,1.25,1.05
+Engleska,1.35,0.80
+Španjolska,1.30,0.80
+Portugal,1.40,0.85
+Nizozemska,1.25,0.85
+Italija,1.10,0.75
+Belgija,1.15,0.95
+Srbija,1.15,1.10
+Norveška,1.25,1.00
+Turska,1.15,0.95
+Austrija,1.10,0.90
+Škotska,1.00,0.95
+
+# --- JUŽNA AMERIKA (CONMEBOL) - 7 timova ---
+Urugvaj,1.20,0.80
+Kolumbija,1.10,0.85
+Ekvador,0.95,0.90
+Čile,0.90,1.00
+Peru,0.85,0.95
+Paragvaj,0.80,0.90
+Venezuela,0.90,0.95
+
+# --- SJEVERNA I SREDNJA AMERIKA (CONCACAF) - 6 timova ---
+SAD,1.05,0.95
+Meksiko,1.00,0.95
+Kanada,1.00,1.05
+Kostarika,0.85,1.00
+Panama,0.90,1.05
+Curacao,0.85,1.10
+
+# --- AFRIKA (CAF) - 9 timova ---
+Kongo,1.05,0.90
+Maroko,0.95,0.65
+Senegal,1.10,0.85
+Tunis,0.80,0.90
+Kamerun,0.95,1.05
+Gana,0.95,1.10
+Egipat,1.00,0.85
+Alžir,1.05,0.90
+Nigerija,1.15,0.95
+Cape Verde,0.95,1.00
+
+# --- AZIJA (AFC) - 9 timova ---
+Jordan,1.00,0.95
+Japan,1.20,0.85
+Južna Koreja,1.05,0.95
+Australija,0.90,1.00
+Saudijska Arabija,0.85,1.05
+Iran,0.90,0.95
+Katar,0.95,1.10
+Irak,0.85,1.05
+Uzbekistan,0.85,1.00
+Uae,0.85,1.05
+
+# --- OKEANIJA (OFC) - 1 tim ---
+Novi Zeland,0.80,1.10
